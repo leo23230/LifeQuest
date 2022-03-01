@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347107402916",
+    "project_id": "lifequest-f1f04",
+    "storage_bucket": "lifequest-f1f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347107402916:android:db23eda095721747bdb231",
+        "android_client_info": {
+          "package_name": "com.leo.life_quest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347107402916-jbvgk7ju73jflls0gnl19rj1bp8fj8kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leo.life_quest",
+            "certificate_hash": "b4b6a87d91d46e7ac84df65180104bc3e2f359c3"
+          }
+        },
+        {
+          "client_id": "347107402916-l9qcjhsgv4glmc8roihlv5j1haou12nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fMhx7uEEXvueCmVlD7OEgjh2HDaLL7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347107402916-l9qcjhsgv4glmc8roihlv5j1haou12nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
